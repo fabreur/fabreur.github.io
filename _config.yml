@@ -1,0 +1,53 @@
+title: Fabio Reis
+tagline: Platform Engineering, Architecture and Operations
+description: >-
+  Notes on Platform Engineering, OpenShift, OpenStack, cloud architecture,
+  storage, and Day 2 operations.
+url: "https://fabreur.github.io"
+baseurl: ""
+lang: en
+timezone: America/Sao_Paulo
+
+github:
+  username: fabreur
+
+social:
+  name: Fabio Reis
+  links:
+    - https://www.linkedin.com/in/fabioabreureis/
+    - https://medium.com/@fabreur
+
+theme_mode: light
+
+paginate: 8
+paginate_path: "/page:num/"
+
+collections:
+  tabs:
+    output: true
+    sort: order
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      comments: false
+  - scope:
+      path: "_tabs"
+      type: tabs
+    values:
+      layout: page
+      dynamic_title: true
+
+kramdown:
+  syntax_highlighter: rouge
+
+exclude:
+  - scripts
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+theme: jekyll-theme-chirpy

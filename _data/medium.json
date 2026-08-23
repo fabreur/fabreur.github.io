@@ -1,0 +1,12 @@
+{
+  "updated_at": "2026-08-23T00:00:00Z",
+  "posts": [
+    {
+      "title": "Ceph: An Overview",
+      "url": "https://medium.com/@fabreur/ceph-an-overview-e971c00ded93",
+      "date": "2026-07-31T00:00:00Z",
+      "description": "An overview of Ceph concepts and their relationship to OpenShift Data Foundation.",
+      "categories": ["Storage", "Ceph", "OpenShift"]
+    }
+  ]
+}
