@@ -1,12 +1,119 @@
 {
-  "updated_at": "2026-08-23T00:00:00Z",
+  "updated_at": "2026-08-23T19:05:04.656613+00:00",
   "posts": [
     {
-      "title": "Ceph: An Overview",
-      "url": "https://medium.com/@fabreur/ceph-an-overview-e971c00ded93",
-      "date": "2026-07-31T00:00:00Z",
-      "description": "An overview of Ceph concepts and their relationship to OpenShift Data Foundation.",
-      "categories": ["Storage", "Ceph", "OpenShift"]
+      "title": "Automating OpenShift oc-mirror v2 with Ansible",
+      "url": "https://fabreur.medium.com/automating-openshift-oc-mirror-v2-with-ansible-c0aa0ae720ea?source=rss-9d5440be8611------2",
+      "date": "2026-08-18T23:10:39+00:00",
+      "description": "",
+      "categories": [
+        "openshift",
+        "red-hat-openshift",
+        "ansible-playbook"
+      ]
+    },
+    {
+      "title": "When Your OpenShift ClusterLogForwarder Works — but the Console Says It Doesn’t",
+      "url": "https://fabreur.medium.com/when-your-openshift-clusterlogforwarder-works-but-the-console-says-it-doesnt-cf5610b85d44?source=rss-9d5440be8611------2",
+      "date": "2026-08-12T20:03:42+00:00",
+      "description": "",
+      "categories": [
+        "observability",
+        "openshift",
+        "logging"
+      ]
+    },
+    {
+      "title": "Integrating Azure Red Hat OpenShift with Red Hat Cost Management",
+      "url": "https://fabreur.medium.com/integrating-azure-red-hat-openshift-with-red-hat-cost-management-b7e54efed336?source=rss-9d5440be8611------2",
+      "date": "2026-08-10T20:30:55+00:00",
+      "description": "",
+      "categories": [
+        "azure",
+        "openshift",
+        "redhat-linux",
+        "finops"
+      ]
+    },
+    {
+      "title": "Fixing SignatureValidationFailed: Why OpenShift 4.21+ Disconnected Upgrades Fail Without Sigstore",
+      "url": "https://fabreur.medium.com/fixing-signaturevalidationfailed-why-openshift-4-21-disconnected-upgrades-fail-without-sigstore-5a27635136ef?source=rss-9d5440be8611------2",
+      "date": "2026-07-15T15:12:38+00:00",
+      "description": "",
+      "categories": [
+        "red-hat-openshift",
+        "kubernetes-cluster"
+      ]
+    },
+    {
+      "title": "Fixing Splunk Connection Drops in OpenShift Logging 6.x",
+      "url": "https://fabreur.medium.com/title-fixing-splunk-connection-drops-in-openshift-logging-6-x-d3486c84688a?source=rss-9d5440be8611------2",
+      "date": "2026-07-07T16:11:05+00:00",
+      "description": "",
+      "categories": [
+        "observability",
+        "grafana-loki",
+        "openshift",
+        "openshift-logging"
+      ]
+    },
+    {
+      "title": "Mirroring OpenShift Release Images to a Supported Container Registry",
+      "url": "https://fabreur.medium.com/mirroring-openshift-release-images-to-a-supported-container-registry-23262d96cfd1?source=rss-9d5440be8611------2",
+      "date": "2026-06-16T17:49:50+00:00",
+      "description": "",
+      "categories": [
+        "container-registry",
+        "kubernetes",
+        "openshift",
+        "red-hat-openshift"
+      ]
+    },
+    {
+      "title": "OpenShift Audit Logs: Dropping and Pruning Logs with CLF",
+      "url": "https://fabreur.medium.com/openshift-audit-logs-dropping-and-pruning-logs-with-clf-6d4e9cdcd353?source=rss-9d5440be8611------2",
+      "date": "2026-05-12T19:45:49+00:00",
+      "description": "",
+      "categories": [
+        "grafana-loki",
+        "observability",
+        "kubernetes",
+        "finops",
+        "openshift"
+      ]
+    },
+    {
+      "title": "Openshift 4.19: Cgroups v1 removal",
+      "url": "https://fabreur.medium.com/openshift-4-19-cgroups-v1-removal-123f4f7f2e04?source=rss-9d5440be8611------2",
+      "date": "2026-04-09T16:05:59+00:00",
+      "description": "",
+      "categories": [
+        "kubernetes",
+        "openshift"
+      ]
+    },
+    {
+      "title": "Loki Stream Rate Limits: OpenShift Proactive Alert",
+      "url": "https://fabreur.medium.com/loki-stream-rate-limits-openshift-proactive-alert-db21302328c5?source=rss-9d5440be8611------2",
+      "date": "2026-04-08T19:45:22+00:00",
+      "description": "",
+      "categories": [
+        "openshift",
+        "grafana-loki",
+        "prometheus",
+        "kubernetes"
+      ]
+    },
+    {
+      "title": "Understanding Loki Rate Limits in OpenShift Logging",
+      "url": "https://fabreur.medium.com/understanding-loki-rate-limits-in-openshift-logging-25bd5497e2ca?source=rss-9d5440be8611------2",
+      "date": "2026-03-27T14:12:13+00:00",
+      "description": "",
+      "categories": [
+        "openshift",
+        "grafana-loki",
+        "red-hat-openshift"
+      ]
     }
   ]
 }
