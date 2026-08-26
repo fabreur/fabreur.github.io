@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-08-25T09:03:19.252825+00:00",
+  "updated_at": "2026-08-26T09:06:20.589027+00:00",
   "posts": [
+    {
+      "title": "Building a Small OpenShift BGP Lab",
+      "url": "https://fabreur.medium.com/building-a-small-openshift-bgp-lab-with-cudns-a1f1bdf5fdc4?source=rss-9d5440be8611------2",
+      "date": "2026-08-25T14:22:00+00:00",
+      "description": "",
+      "categories": [
+        "networking",
+        "red-hat-openshift",
+        "kubernetes",
+        "openshift-networking"
+      ]
+    },
     {
       "title": "Automating OpenShift oc-mirror v2 with Ansible",
       "url": "https://fabreur.medium.com/automating-openshift-oc-mirror-v2-with-ansible-c0aa0ae720ea?source=rss-9d5440be8611------2",
@@ -102,17 +114,6 @@
         "grafana-loki",
         "prometheus",
         "kubernetes"
-      ]
-    },
-    {
-      "title": "Understanding Loki Rate Limits in OpenShift Logging",
-      "url": "https://fabreur.medium.com/understanding-loki-rate-limits-in-openshift-logging-25bd5497e2ca?source=rss-9d5440be8611------2",
-      "date": "2026-03-27T14:12:13+00:00",
-      "description": "",
-      "categories": [
-        "openshift",
-        "grafana-loki",
-        "red-hat-openshift"
       ]
     }
   ]
