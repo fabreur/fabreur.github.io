@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-08-27T19:08:16.244971+00:00",
+  "updated_at": "2026-08-28T20:13:53.098179+00:00",
   "posts": [
+    {
+      "title": "Building a KubeVirt Lab with Rook-Ceph on Bare-Metal Kubernetes",
+      "url": "https://fabreur.medium.com/building-a-kubevirt-lab-with-rook-ceph-on-bare-metal-kubernetes-550b74c1ee82?source=rss-9d5440be8611------2",
+      "date": "2026-08-27T23:24:04+00:00",
+      "description": "",
+      "categories": [
+        "kubernetes",
+        "kubevirt",
+        "cloud-computing",
+        "ceph"
+      ]
+    },
     {
       "title": "Building a Small OpenShift BGP Lab",
       "url": "https://fabreur.medium.com/building-a-small-openshift-bgp-lab-with-cudns-a1f1bdf5fdc4?source=rss-9d5440be8611------2",
@@ -102,18 +114,6 @@
       "categories": [
         "kubernetes",
         "openshift"
-      ]
-    },
-    {
-      "title": "Loki Stream Rate Limits: OpenShift Proactive Alert",
-      "url": "https://fabreur.medium.com/loki-stream-rate-limits-openshift-proactive-alert-db21302328c5?source=rss-9d5440be8611------2",
-      "date": "2026-04-08T19:45:22+00:00",
-      "description": "",
-      "categories": [
-        "openshift",
-        "grafana-loki",
-        "prometheus",
-        "kubernetes"
       ]
     }
   ]
