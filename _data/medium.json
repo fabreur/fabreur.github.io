@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-09-04T12:46:27.120971+00:00",
+  "updated_at": "2026-09-05T11:52:26.051637+00:00",
   "posts": [
+    {
+      "title": "Red Hat Cert Manager: Certificates with Let’s Encrypt",
+      "url": "https://fabreur.medium.com/red-hat-cert-manager-certificates-with-lets-encrypt-452b46478bd9?source=rss-9d5440be8611------2",
+      "date": "2026-09-04T20:05:45+00:00",
+      "description": "",
+      "categories": [
+        "kubernetes",
+        "openshift",
+        "cloud-security",
+        "security"
+      ]
+    },
+    {
+      "title": "Red Hat Cert-Manager with Custom CA",
+      "url": "https://fabreur.medium.com/red-hat-cert-manager-with-custom-ca-b0d7e10100e8?source=rss-9d5440be8611------2",
+      "date": "2026-09-04T19:54:04+00:00",
+      "description": "",
+      "categories": [
+        "openshift",
+        "kubernetes",
+        "security",
+        "cert-manager"
+      ]
+    },
     {
       "title": "Building a KubeVirt Lab with Rook-Ceph on Bare-Metal Kubernetes",
       "url": "https://fabreur.medium.com/building-a-kubevirt-lab-with-rook-ceph-on-bare-metal-kubernetes-550b74c1ee82?source=rss-9d5440be8611------2",
@@ -91,29 +115,6 @@
         "kubernetes",
         "openshift",
         "red-hat-openshift"
-      ]
-    },
-    {
-      "title": "OpenShift Audit Logs: Dropping and Pruning Logs with CLF",
-      "url": "https://fabreur.medium.com/openshift-audit-logs-dropping-and-pruning-logs-with-clf-6d4e9cdcd353?source=rss-9d5440be8611------2",
-      "date": "2026-05-12T19:45:49+00:00",
-      "description": "",
-      "categories": [
-        "grafana-loki",
-        "observability",
-        "kubernetes",
-        "finops",
-        "openshift"
-      ]
-    },
-    {
-      "title": "Openshift 4.19: Cgroups v1 removal",
-      "url": "https://fabreur.medium.com/openshift-4-19-cgroups-v1-removal-123f4f7f2e04?source=rss-9d5440be8611------2",
-      "date": "2026-04-09T16:05:59+00:00",
-      "description": "",
-      "categories": [
-        "kubernetes",
-        "openshift"
       ]
     }
   ]
