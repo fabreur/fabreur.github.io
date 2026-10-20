@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T15:42:31.786731+00:00",
+  "updated_at": "2026-10-20T13:39:15.341024+00:00",
   "posts": [
     {
       "title": "Red Hat Cert Manager: Certificates with Let’s Encrypt",
@@ -72,18 +72,6 @@
       ]
     },
     {
-      "title": "Integrating Azure Red Hat OpenShift with Red Hat Cost Management",
-      "url": "https://fabreur.medium.com/integrating-azure-red-hat-openshift-with-red-hat-cost-management-b7e54efed336?source=rss-9d5440be8611------2",
-      "date": "2026-08-10T20:30:55+00:00",
-      "description": "",
-      "categories": [
-        "azure",
-        "openshift",
-        "redhat-linux",
-        "finops"
-      ]
-    },
-    {
       "title": "Fixing SignatureValidationFailed: Why OpenShift 4.21+ Disconnected Upgrades Fail Without Sigstore",
       "url": "https://fabreur.medium.com/fixing-signaturevalidationfailed-why-openshift-4-21-disconnected-upgrades-fail-without-sigstore-5a27635136ef?source=rss-9d5440be8611------2",
       "date": "2026-07-15T15:12:38+00:00",
@@ -115,6 +103,19 @@
         "kubernetes",
         "openshift",
         "red-hat-openshift"
+      ]
+    },
+    {
+      "title": "OpenShift Audit Logs: Dropping and Pruning Logs with CLF",
+      "url": "https://fabreur.medium.com/openshift-audit-logs-dropping-and-pruning-logs-with-clf-6d4e9cdcd353?source=rss-9d5440be8611------2",
+      "date": "2026-05-12T19:45:49+00:00",
+      "description": "",
+      "categories": [
+        "grafana-loki",
+        "observability",
+        "kubernetes",
+        "finops",
+        "openshift"
       ]
     }
   ]
