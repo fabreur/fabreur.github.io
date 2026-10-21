@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-10-20T13:39:15.341024+00:00",
+  "updated_at": "2026-10-21T13:55:22.894867+00:00",
   "posts": [
+    {
+      "title": "A Small RHEL 10 Infrastructure Lab with Podman",
+      "url": "https://fabreur.medium.com/a-small-rhel-10-infrastructure-lab-with-podman-01a800c9e42b?source=rss-9d5440be8611------2",
+      "date": "2026-10-20T21:08:34+00:00",
+      "description": "",
+      "categories": [
+        "linux-tutorial",
+        "infrastructure"
+      ]
+    },
+    {
+      "title": "Add a user to a qcow2 image with virt-customize",
+      "url": "https://fabreur.medium.com/add-a-user-to-a-qcow2-image-with-virt-customize-4843c8fa93d5?source=rss-9d5440be8611------2",
+      "date": "2026-10-20T19:25:18+00:00",
+      "description": "",
+      "categories": [
+        "virtualization",
+        "libvirt",
+        "linux"
+      ]
+    },
     {
       "title": "Red Hat Cert Manager: Certificates with Let’s Encrypt",
       "url": "https://fabreur.medium.com/red-hat-cert-manager-certificates-with-lets-encrypt-452b46478bd9?source=rss-9d5440be8611------2",
@@ -91,31 +112,6 @@
         "grafana-loki",
         "openshift",
         "openshift-logging"
-      ]
-    },
-    {
-      "title": "Mirroring OpenShift Release Images to a Supported Container Registry",
-      "url": "https://fabreur.medium.com/mirroring-openshift-release-images-to-a-supported-container-registry-23262d96cfd1?source=rss-9d5440be8611------2",
-      "date": "2026-06-16T17:49:50+00:00",
-      "description": "",
-      "categories": [
-        "container-registry",
-        "kubernetes",
-        "openshift",
-        "red-hat-openshift"
-      ]
-    },
-    {
-      "title": "OpenShift Audit Logs: Dropping and Pruning Logs with CLF",
-      "url": "https://fabreur.medium.com/openshift-audit-logs-dropping-and-pruning-logs-with-clf-6d4e9cdcd353?source=rss-9d5440be8611------2",
-      "date": "2026-05-12T19:45:49+00:00",
-      "description": "",
-      "categories": [
-        "grafana-loki",
-        "observability",
-        "kubernetes",
-        "finops",
-        "openshift"
       ]
     }
   ]
